@@ -1,0 +1,46 @@
+/*.navbar-light .navbar-brand {
+    color: #888;
+    font-size: 1.0rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #888;
+  font-size: 0.75rem;
+}*/
+
+
+body {
+  background: url("images/alexander-possingham-209285.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+html {
+    height: 100%;
+}
+
+#content {
+  text-align: center;
+  padding-top: 20%;
+}
+
+h1, h3 {
+  color: white;
+  text-shadow: 1px 2px 6px rgba(0,0,0,0.5);
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.25rem;
+  font-weight: normal;
+}
+
+hr {
+  width: 15rem;
+  border-top: 1px solid white;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}

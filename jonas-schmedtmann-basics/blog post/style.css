@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica Neue, Arial;
+    font-size: 1.3rem;
+}
+
+h1, h2 {
+  color: rgb(65, 196, 153);
+
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+p {
+  
+}
+
+.main-text {
+  text-align: justify;
+}
+
+#author {
+  font-size: 2rem;
+}
