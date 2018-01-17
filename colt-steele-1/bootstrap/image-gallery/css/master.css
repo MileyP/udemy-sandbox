@@ -1,0 +1,23 @@
+body {
+  padding-top: 84px;
+}
+
+.header-icon {
+  width: 20px;
+  margin-bottom: 3px;
+  margin-right: 4px;
+}
+
+.jumbo-icon {
+  width: 36px;
+  margin-bottom: 5px;
+  margin-right: 6px;
+}
+
+.img-thumbnail {
+  margin-bottom: 30px;
+}
+
+/*.jumbotron {
+  background: url("../cr-map.png");
+}*/

@@ -1,0 +1,79 @@
+body {
+  margin: 0 5% 0 5%;
+}
+
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 0;
+}
+
+.title-underline {
+  width: 32%;
+  background-color: #eee;
+  border-width: 0;
+  height: 3px;
+  margin: 0 auto 2% 0;
+
+}
+
+.square-image {
+  width: 32%;
+  padding-bottom: 32%;
+  overflow: hidden;
+  float: left;
+  align: center;
+}
+
+.row {
+  margin-top: 2%;
+}
+
+.col {
+  margin-left: 2%;
+}
+
+#image1 {
+  background: url('http://c1.staticflickr.com/9/8450/8026519634_f33f3724ea_b.jpg');
+  background-size: cover;
+}
+
+#image2 {
+  background: url('http://c2.staticflickr.com/8/7218/7209301894_c99d3a33c2_h.jpg');
+  background-size: cover;
+}
+
+#image3 {
+  background: url('http://c2.staticflickr.com/8/7231/6947093326_df216540ff_b.jpg');
+  background-size: cover;
+}
+
+#image4 {
+  background: url('http://c1.staticflickr.com/9/8788/17367410309_78abb9e5b6_b.jpg');
+  background-size: cover;
+}
+
+#image5 {
+  background: url('http://c2.staticflickr.com/6/5814/20700286354_762c19bd3b_b.jpg');
+  background-size: cover;
+}
+
+#image6 {
+  background: url('http://c2.staticflickr.com/6/5647/21137202535_404bf25729_b.jpg');
+  background-size: cover;
+}
+
+#image7 {
+  background: url('http://c2.staticflickr.com/6/5588/14991687545_5c8e1a2e86_b.jpg');
+  background-size: cover;
+}
+
+#image8 {
+  background: url('http://c2.staticflickr.com/4/3888/14878097108_5997041006_b.jpg');
+  background-size: cover;
+}
+
+#image9 {
+  background: url('http://c2.staticflickr.com/8/7579/15482110477_0b0e9e5421_b.jpg');
+  background-size: cover;
+}

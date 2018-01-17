@@ -1,0 +1,30 @@
+.btn-primary {
+  background-color: green;
+}
+.btn-primary:hover {
+  background-color: lightgreen;
+}
+.btn-primary:not([disabled]):not(.disabled):active
+ {
+  background-color: black;
+}
+
+
+.header {
+  background: url(https://photos.smugmug.com/Portfolio/topshots/i-Xxt3Krk/1/X3/Distant%20Volcano-X3.jpg);
+  background-size: cover;
+  padding-bottom: 200px;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: white;
+}
+
+.outer {
+
+}
+
+.blue {
+  background: #e2edff;
+  border: 1px solid #6d8fc6;
+  margin: 10px;
+}
